@@ -1,0 +1,193 @@
+2020-08-16 11:39:53 INFO  Controler:42 - Directory to scan:dir
+2020-08-16 11:39:53 INFO  Controler:43 - Directory after proceesed:dir/processed
+2020-08-16 11:39:53 INFO  Controler:47 - Suported files extentions:[txt]
+2020-08-16 11:39:53 INFO  Controler:53 - Suported Stats:[com.hicx.test.statistics.WordCountProcessor@3578436e]
+2020-08-16 11:41:20 INFO  Controler:89 - files to process :null
+2020-08-16 11:42:04 INFO  Controler:42 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test
+2020-08-16 11:42:04 INFO  Controler:43 - Directory after proceesed:dir/processed
+2020-08-16 11:42:04 INFO  Controler:47 - Suported files extentions:[txt]
+2020-08-16 11:42:04 INFO  Controler:53 - Suported Stats:[com.hicx.test.statistics.WordCountProcessor@3578436e]
+2020-08-16 11:42:04 INFO  Controler:89 - files to process :[]
+2020-08-16 11:42:36 INFO  Controler:42 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test
+2020-08-16 11:42:36 INFO  Controler:43 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/processed
+2020-08-16 11:42:36 INFO  Controler:47 - Suported files extentions:[txt]
+2020-08-16 11:42:36 INFO  Controler:53 - Suported Stats:[com.hicx.test.statistics.WordCountProcessor@3578436e]
+2020-08-16 11:43:42 INFO  Controler:89 - files to process :[]
+2020-08-16 11:45:35 INFO  Controler:42 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 11:45:35 INFO  Controler:43 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 11:45:35 INFO  Controler:47 - Suported files extentions:[txt]
+2020-08-16 11:45:35 INFO  Controler:53 - Suported Stats:[com.hicx.test.statistics.WordCountProcessor@3578436e]
+2020-08-16 11:46:01 INFO  Controler:89 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 11:48:21 INFO  Controler:42 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 11:48:21 INFO  Controler:43 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 11:48:21 INFO  Controler:47 - Suported files extentions:[txt]
+2020-08-16 11:48:21 INFO  Controler:53 - Suported Stats:[com.hicx.test.statistics.WordCountProcessor@60285225]
+2020-08-16 11:48:21 INFO  Controler:89 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 11:49:05 INFO  Controler:42 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 11:49:05 INFO  Controler:43 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 11:49:05 INFO  Controler:47 - Suported files extentions:[txt]
+2020-08-16 11:49:05 INFO  Controler:53 - Suported Stats:[com.hicx.test.statistics.WordCountProcessor@60285225]
+2020-08-16 11:49:05 INFO  Controler:89 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 11:49:05 INFO  Processor:29 - TittleWord Count
+2020-08-16 11:49:05 INFO  Processor:33 - ========End==========
+2020-08-16 11:49:26 INFO  Controler:42 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 11:49:26 INFO  Controler:43 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 11:49:26 INFO  Controler:47 - Suported files extentions:[txt]
+2020-08-16 11:49:26 INFO  Controler:53 - Suported Stats:[com.hicx.test.statistics.WordCountProcessor@60285225]
+2020-08-16 11:49:26 INFO  Controler:89 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 11:49:26 INFO  Processor:29 - TittleWord Count
+2020-08-16 11:49:26 INFO  Processor:33 - ========End==========
+2020-08-16 12:16:16 INFO  Controler:43 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 12:16:16 INFO  Controler:44 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 12:16:16 INFO  Controler:45 - Supported files ext:[txt]
+2020-08-16 12:16:16 INFO  Controler:46 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@706a04ae]
+2020-08-16 12:16:57 INFO  Controler:43 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 12:16:57 INFO  Controler:44 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 12:16:57 INFO  Controler:45 - Supported files ext:[txt]
+2020-08-16 12:17:06 INFO  Controler:46 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@706a04ae]
+2020-08-16 12:17:33 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 12:24:20 INFO  Controler:43 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 12:24:20 INFO  Controler:44 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 12:24:20 INFO  Controler:45 - Supported files ext:[txt]
+2020-08-16 12:24:21 INFO  Controler:46 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@706a04ae]
+2020-08-16 12:24:21 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 12:25:17 INFO  Controler:43 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 12:25:17 INFO  Controler:44 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 12:25:17 INFO  Controler:45 - Supported files ext:[txt]
+2020-08-16 12:25:18 INFO  Controler:46 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@706a04ae]
+2020-08-16 12:25:19 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 12:26:18 INFO  Processor:30 - TittleWord Count
+2020-08-16 12:26:18 INFO  Processor:34 - ========End==========
+2020-08-16 12:50:13 INFO  Controler:49 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 12:50:13 INFO  Controler:50 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 12:50:13 INFO  Controler:51 - Supported files ext:[txt]
+2020-08-16 12:50:13 INFO  Controler:52 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@42d8062c]
+2020-08-16 12:50:13 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 12:50:13 INFO  Processor:34 - TittleWord Count
+2020-08-16 12:50:13 INFO  Processor:38 - ========End==========
+2020-08-16 13:38:24 INFO  Controler:47 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 13:38:24 INFO  Controler:48 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 13:38:24 INFO  Controler:49 - Supported files ext:[txt]
+2020-08-16 13:38:24 INFO  Controler:50 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@42d8062c]
+2020-08-16 13:38:24 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 13:38:24 INFO  Processor:39 - TittleWord Count
+2020-08-16 13:38:24 INFO  Processor:43 - ========End==========
+2020-08-16 13:38:28 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 13:38:28 INFO  Processor:39 - TittleWord Count
+2020-08-16 13:38:28 INFO  Processor:43 - ========End==========
+2020-08-16 13:38:32 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 13:38:32 INFO  Processor:39 - TittleWord Count
+2020-08-16 13:38:32 INFO  Processor:43 - ========End==========
+2020-08-16 13:38:36 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 13:38:36 INFO  Processor:39 - TittleWord Count
+2020-08-16 13:38:36 INFO  Processor:43 - ========End==========
+2020-08-16 13:38:40 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 13:38:40 INFO  Processor:39 - TittleWord Count
+2020-08-16 13:38:40 INFO  Processor:43 - ========End==========
+2020-08-16 13:38:44 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 13:38:44 INFO  Processor:39 - TittleWord Count
+2020-08-16 13:38:44 INFO  Processor:43 - ========End==========
+2020-08-16 13:38:48 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 13:38:48 INFO  Processor:39 - TittleWord Count
+2020-08-16 13:38:48 INFO  Processor:43 - ========End==========
+2020-08-16 13:38:52 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 13:38:52 INFO  Processor:39 - TittleWord Count
+2020-08-16 13:38:52 INFO  Processor:43 - ========End==========
+2020-08-16 13:44:09 INFO  Controler:47 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 13:44:09 INFO  Controler:48 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 13:44:09 INFO  Controler:49 - Supported files ext:[txt]
+2020-08-16 13:44:09 INFO  Controler:50 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@42d8062c]
+2020-08-16 13:44:09 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 13:44:09 INFO  FileUtils:32 - files moved :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data1.txt]
+2020-08-16 13:44:09 INFO  Processor:39 - TittleWord Count
+2020-08-16 13:44:09 INFO  Processor:43 - ========End==========
+2020-08-16 13:44:13 INFO  FileUtils:23 - files to process :[]
+2020-08-16 13:44:13 INFO  FileUtils:32 - files moved :[]
+2020-08-16 13:44:17 INFO  FileUtils:23 - files to process :[]
+2020-08-16 13:44:17 INFO  FileUtils:32 - files moved :[]
+2020-08-16 13:44:21 INFO  FileUtils:23 - files to process :[]
+2020-08-16 13:44:21 INFO  FileUtils:32 - files moved :[]
+2020-08-16 13:44:25 INFO  FileUtils:23 - files to process :[]
+2020-08-16 13:44:25 INFO  FileUtils:32 - files moved :[]
+2020-08-16 13:47:35 INFO  Controler:47 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 13:47:35 INFO  Controler:48 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 13:47:35 INFO  Controler:49 - Supported files ext:[txt]
+2020-08-16 13:47:35 INFO  Controler:50 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@10a035a0]
+2020-08-16 13:47:35 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data.txt]
+2020-08-16 13:47:48 INFO  FileUtils:36 - files moved :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data.txt]
+2020-08-16 13:47:48 INFO  Processor:39 - TittleWord Count
+2020-08-16 13:47:48 INFO  Processor:43 - ========End==========
+2020-08-16 13:48:06 INFO  Controler:47 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 13:48:06 INFO  Controler:48 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 13:48:06 INFO  Controler:49 - Supported files ext:[txt]
+2020-08-16 13:48:06 INFO  Controler:50 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@42d8062c]
+2020-08-16 13:48:06 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processeddata.txt]
+2020-08-16 13:48:06 INFO  FileUtils:36 - files moved :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processeddata.txt]
+2020-08-16 13:48:06 INFO  Processor:39 - TittleWord Count
+2020-08-16 13:48:06 INFO  Processor:43 - ========End==========
+2020-08-16 13:48:10 INFO  FileUtils:23 - files to process :[]
+2020-08-16 13:48:10 INFO  FileUtils:36 - files moved :[]
+2020-08-16 13:48:14 INFO  FileUtils:23 - files to process :[]
+2020-08-16 13:48:14 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:12:35 INFO  Controler:47 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 18:12:35 INFO  Controler:48 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 18:12:35 INFO  Controler:49 - Supported files ext:[txt]
+2020-08-16 18:12:35 INFO  Controler:50 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@cb51256]
+2020-08-16 18:12:35 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data_dots.txt, /Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data.txt]
+2020-08-16 18:12:35 INFO  FileUtils:36 - files moved :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data_dots.txt, /Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data.txt]
+2020-08-16 18:12:35 INFO  Processor:39 - TittleWord Count
+2020-08-16 18:12:35 INFO  Processor:43 - ========End==========
+2020-08-16 18:12:35 INFO  Processor:39 - TittleWord Count
+2020-08-16 18:12:35 INFO  Processor:43 - ========End==========
+2020-08-16 18:12:39 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:12:39 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:12:43 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:12:43 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:13:51 INFO  Controler:47 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 18:13:51 INFO  Controler:48 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 18:13:51 INFO  Controler:49 - Supported files ext:[txt]
+2020-08-16 18:13:51 INFO  Controler:50 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@59906517, com.hicx.test.statistics.DotCountProcessor@5bfbf16f]
+2020-08-16 18:13:51 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data_dots.txt, /Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data.txt]
+2020-08-16 18:13:51 INFO  FileUtils:36 - files moved :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data_dots.txt, /Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data.txt]
+2020-08-16 18:13:51 INFO  Processor:39 - TittleWord Count
+2020-08-16 18:13:51 INFO  Processor:43 - ========End==========
+2020-08-16 18:13:51 INFO  Processor:39 - TittleDot Count
+2020-08-16 18:13:51 INFO  Processor:43 - ========End==========
+2020-08-16 18:13:51 INFO  Processor:39 - TittleWord Count
+2020-08-16 18:13:51 INFO  Processor:43 - ========End==========
+2020-08-16 18:13:51 INFO  Processor:39 - TittleDot Count
+2020-08-16 18:13:51 INFO  Processor:43 - ========End==========
+2020-08-16 18:13:55 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:13:55 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:13:59 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:13:59 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:14:03 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:14:03 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:14:07 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:14:07 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:45:47 INFO  Controler:47 - Directory to scan:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources
+2020-08-16 18:45:47 INFO  Controler:48 - Directory after proceesed:/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/processed
+2020-08-16 18:45:47 INFO  Controler:49 - Supported files ext:[txt]
+2020-08-16 18:45:47 INFO  Controler:50 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@5bfbf16f, com.hicx.test.statistics.DotCountProcessor@25af5db5, com.hicx.test.statistics.MostCommonWordProcessor@12cdcf4]
+2020-08-16 18:45:47 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data_dots.txt, /Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data.txt]
+2020-08-16 18:45:47 INFO  FileUtils:36 - files moved :[/Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data_dots.txt, /Users/jcabrera/Desktop/cursos/java_interview/repo/HICXTest/src/test/resources/data.txt]
+2020-08-16 18:45:47 INFO  Processor:39 - Stat Tittle:Word Count
+2020-08-16 18:45:47 INFO  Processor:43 - ========End==========
+2020-08-16 18:45:47 INFO  Processor:39 - Stat Tittle:Dot Count
+2020-08-16 18:45:47 INFO  Processor:43 - ========End==========
+2020-08-16 18:45:47 INFO  Processor:39 - Stat Tittle:Most Used Word: 
+2020-08-16 18:45:47 INFO  Processor:43 - ========End==========
+2020-08-16 18:45:47 INFO  Processor:39 - Stat Tittle:Word Count
+2020-08-16 18:45:47 INFO  Processor:43 - ========End==========
+2020-08-16 18:45:47 INFO  Processor:39 - Stat Tittle:Dot Count
+2020-08-16 18:45:47 INFO  Processor:43 - ========End==========
+2020-08-16 18:45:47 INFO  Processor:39 - Stat Tittle:Most Used Word: 
+2020-08-16 18:45:47 INFO  Processor:43 - ========End==========
+2020-08-16 18:45:51 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:45:51 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:45:55 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:45:55 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:45:59 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:45:59 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:46:03 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:46:03 INFO  FileUtils:36 - files moved :[]

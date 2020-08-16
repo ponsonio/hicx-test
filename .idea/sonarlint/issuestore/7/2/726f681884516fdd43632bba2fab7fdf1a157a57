@@ -1,0 +1,11 @@
+
+ƒ"squid:ClassVariableVisibilityCheck"UMake STAT_ITEM a static final constant or non-public and provide accessors if needed.( µ‰Š
+‰"squid:ClassVariableVisibilityCheck"VMake STAT_TITLE a static final constant or non-public and provide accessors if needed.(‡ç¾ƒþÿÿÿÿ
+qsquid:S3008"URename this field "STAT_TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ç¾ƒþÿÿÿÿ
+ksquid:S3008"TRename this field "STAT_ITEM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( µ‰Š
+Qsquid:S22092"5Change this instance-reference to a static reference.(Î¯×€ýÿÿÿÿ
+vsquid:S1450
+"XRemove the "frecuency" field and declare it as a local variable in the relevant methods.(’„ü™8³´ÓÌ¿.
+Fsquid:S1444"/Make this "public static STAT_ITEM" field final( µ‰Š
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ûæ¢8³´ÓÌ¿.
+Lsquid:S1444"0Make this "public static STAT_TITLE" field final(‡ç¾ƒþÿÿÿÿ

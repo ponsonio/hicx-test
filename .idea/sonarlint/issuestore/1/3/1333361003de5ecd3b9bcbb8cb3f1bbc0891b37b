@@ -1,0 +1,12 @@
+
+Tsquid:S1068"1Remove this unused "PROCESSED_DIR" private field.(àÓŠòûÿÿÿÿ8ˆÈƒ‚¿.
+ksquid:S20959"MUse try-with-resources or close this "DirectoryStream" in a "finally" clause.(ÙßÄ8Ãáìƒ¿.
+Ksquid:S11723"(Remove this unused method parameter "f".(µ¬»ªùÿÿÿÿ8Ü©ï‚¿.
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8Ãáìƒ¿.
+Msquid:S00108@")Either remove or fill this block of code.(åù™ìÿÿÿÿÿ8ú ¾‚¿.
+¤%squid:RedundantThrowsDeclarationCheck?"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Ú˜åº8—¡œ‚¿.
+Msquid:S1172"*Remove this unused method parameter "dir".(ÅË”şÿÿÿÿ8”æÕ‚¿.
+Zsquid:UnusedPrivateMethod?".Remove this unused private "moveFiles" method.(Ú˜åº8êÙñ¿.
+Lsquid:S1481@")Remove this unused "file" local variable.(åù™ìÿÿÿÿÿ8—¡œ‚¿.
+{squid:S3008"XRename this field "PROCESSED_DIR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÓŠòûÿÿÿÿ8ˆÈƒ‚¿.
