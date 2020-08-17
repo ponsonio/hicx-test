@@ -12,9 +12,9 @@ This project is build using maven, so you can issue test, build, and install
 ## Run Test
 Although test are not sufficient (per time constraints),
 
-´´´
+```shell
 mvn test
-´´´
+```
 
 ## To Do
 Per time constraint and considering this is not a _real_ project, some aspect have
@@ -32,9 +32,9 @@ files to be process,
 test files are provided as resources on _/test/resources/_, you can also use mvn to execute the 
 procesor, but first adjust the parameters on the _pom.xml_ to you local env
 
-´´´
+```shell
  mvn clean compile exec:java
  
-´´´
+```
 
 * we asume a _processed_ dir it's already there, this has only be tested on Mac OS X.
