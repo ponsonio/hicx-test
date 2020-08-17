@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44379ead-6190-4307-aa0d-a4872612e63e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HICX-Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log4j-application.log" beforeDir="false" afterPath="$PROJECT_DIR$/log4j-application.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hicx/test/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hicx/test/FileUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hicx/test/file_parser/FileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hicx/test/file_parser/FileParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hicx/test/file_parser/FileParserControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hicx/test/file_parser/FileParserControler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hicx/test/statistics/IStatsGather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hicx/test/statistics/IStatsGather.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hicx/test/statistics/StatsProcesorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hicx/test/statistics/StatsProcesorController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/HICXTest.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.hicx.test.statistics.WordCountProcessorTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.hicx.test.statistics.WordCountProcessorTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hicx/test/ControlerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hicx/test/statistics/DotCountProcessorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hicx/test/statistics/MostCommonWordProcessorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hicx/test/statistics/WordCountProcessorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/data_dots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/processed/processeddata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -87,10 +62,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hicx/test/FileUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="240">
               <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -99,12 +74,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="406">
-                <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+              <first_editor relative-caret-position="28">
+                <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -215,12 +190,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/statistics/MostCommonWordProcessor.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/hicx/test/statistics/MostCommonWordProcessorTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/file_parser/FileParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/statistics/IStatsGather.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/file_parser/FileParserControler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/statistics/StatsProcesorController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/FileUtils.java" />
+        <option value="$PROJECT_DIR$/Readme.md" />
       </list>
     </option>
   </component>
@@ -571,7 +546,7 @@
     <frame x="78" y="23" width="1312" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21102363" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21102363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -589,7 +564,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32939634" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2519685" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2519685" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="CodeNarc" order="10" />
       <window_info anchor="bottom" id="CheckStyle" order="11" />
@@ -857,16 +832,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="406">
-            <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hicx/test/file_parser/FileParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -929,11 +894,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hicx/test/FileUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
+        <state relative-caret-position="240">
           <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="28">
+            <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
