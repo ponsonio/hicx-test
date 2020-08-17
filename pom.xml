@@ -28,7 +28,7 @@
         <configuration>
           <mainClass>com.hicx.test.Processor</mainClass>
           <arguments>
-            <argument>/Users/jcabrera/Desktop/hicx-test/src/test/resources/</argument>
+            <argument>./src/test/resources/</argument>
           </arguments>
         </configuration>
       </plugin>
@@ -50,6 +50,7 @@
       <artifactId>log4j</artifactId>
       <version>1.2.17</version>
     </dependency>
+
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-api</artifactId>

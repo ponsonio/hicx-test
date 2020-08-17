@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44379ead-6190-4307-aa0d-a4872612e63e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log4j-application.log" beforeDir="false" afterPath="$PROJECT_DIR$/log4j-application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hicx/test/ControlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hicx/test/ControlerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,122 +19,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/hicx/test/statistics/MostCommonWordProcessorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hicx/test/statistics/StatsProcesorController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hicx/test/Processor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hicx/test/Controler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hicx/test/FileUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="454">
-                <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hicx/test/file_parser/FileParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hicx/test/statistics/IStatsGather.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hicx/test/file_parser/FileParserControler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -180,7 +68,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/file_parser/TextFileParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/com/hicx/test/ControlerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/ControlerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/hicx/test/ControlerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/Controler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/statistics/DotCountProcessor.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/hicx/test/statistics/DotCountProcessorTest.java" />
@@ -189,13 +76,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/statistics/WordCountProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/statistics/MostCommonWordProcessor.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/hicx/test/statistics/MostCommonWordProcessorTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/file_parser/FileParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/statistics/IStatsGather.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/file_parser/FileParserControler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/statistics/StatsProcesorController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hicx/test/FileUtils.java" />
         <option value="$PROJECT_DIR$/Readme.md" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hicx/test/ControlerTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -290,6 +178,21 @@
               <item name="hicx-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hicx-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hicx-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hicx-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hicx-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -352,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Processor">
+  <component name="RunManager" selected="JUnit.ControlerTest.assertThatProcessTextFiles_NumberWords">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -379,17 +282,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DotCountProcessorTest.assertThatCountWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HICXTest" />
+    <configuration name="ControlerTest.assertThatProcessTextFiles_NumberWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HICX-Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hicx.test.statistics.*" />
+          <option name="PATTERN" value="com.hicx.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.hicx.test.statistics" />
-      <option name="MAIN_CLASS_NAME" value="com.hicx.test.statistics.DotCountProcessorTest" />
-      <option name="METHOD_NAME" value="assertThatCountWords" />
+      <option name="PACKAGE_NAME" value="com.hicx.test" />
+      <option name="MAIN_CLASS_NAME" value="com.hicx.test.ControlerTest" />
+      <option name="METHOD_NAME" value="assertThatProcessTextFiles_NumberWords" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -473,18 +376,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Processor" />
-      <item itemvalue="JUnit.DotCountProcessorTest.assertThatCountWords" />
       <item itemvalue="JUnit.MostCommonWordProcessorTest.assertThatTittle_Corresponds" />
       <item itemvalue="JUnit.MostCommonWordProcessorTest.assertThatCountWords" />
       <item itemvalue="JUnit.MostCommonWordProcessorTest" />
+      <item itemvalue="JUnit.ControlerTest.assertThatProcessTextFiles_NumberWords" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ControlerTest.assertThatProcessTextFiles_NumberWords" />
         <item itemvalue="Application.Processor" />
         <item itemvalue="JUnit.MostCommonWordProcessorTest.assertThatCountWords" />
         <item itemvalue="JUnit.MostCommonWordProcessorTest" />
         <item itemvalue="JUnit.MostCommonWordProcessorTest.assertThatTittle_Corresponds" />
-        <item itemvalue="JUnit.DotCountProcessorTest.assertThatCountWords" />
       </list>
     </recent_temporary>
   </component>
@@ -502,15 +405,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DotCountProcessorTest_assertThatCountWords - 2020.08.16 at 18h 10m 16s.xml">
-      <configuration name="DotCountProcessorTest.assertThatCountWords" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DotCountProcessorTest_assertThatCountWords - 2020.08.16 at 18h 10m 58s.xml">
-      <configuration name="DotCountProcessorTest.assertThatCountWords" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MostCommonWordProcessorTest_assertThatTittle_Corresponds - 2020.08.16 at 18h 32m 43s.xml">
-      <configuration name="MostCommonWordProcessorTest.assertThatTittle_Corresponds" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MostCommonWordProcessorTest_assertThatCountWords - 2020.08.16 at 18h 34m 53s.xml">
       <configuration name="MostCommonWordProcessorTest.assertThatCountWords" configurationId="JUnit" />
     </history-entry>
@@ -532,6 +426,15 @@
     <history-entry file="MostCommonWordProcessorTest_assertThatCountWords - 2020.08.16 at 18h 44m 46s.xml">
       <configuration name="MostCommonWordProcessorTest.assertThatCountWords" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ControlerTest_assertThatProcessTextFiles_NumberWords - 2020.08.16 at 19h 27m 45s.xml">
+      <configuration name="ControlerTest.assertThatProcessTextFiles_NumberWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControlerTest_assertThatProcessTextFiles_NumberWords - 2020.08.16 at 19h 29m 17s.xml">
+      <configuration name="ControlerTest.assertThatProcessTextFiles_NumberWords" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControlerTest_assertThatProcessTextFiles_NumberWords - 2020.08.16 at 19h 29m 29s.xml">
+      <configuration name="ControlerTest.assertThatProcessTextFiles_NumberWords" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -544,9 +447,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="78" y="23" width="1312" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23779528" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23779528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -558,13 +460,13 @@
       <window_info id="Job Explorer" order="9" weight="0.32929292" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939634" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42257217" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19291338" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42125985" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32939634" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2519685" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2519685" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="CodeNarc" order="10" />
       <window_info anchor="bottom" id="CheckStyle" order="11" />
@@ -727,16 +629,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test/ControlerTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/hicx/test/ControlerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hicx/test/file_parser/TextFileParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -825,13 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hicx/test/file_parser/FileParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -892,23 +777,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hicx/test/FileUtils.java">
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="77">
+            <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hicx/test/ControlerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+        <state relative-caret-position="56">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1274#1282#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="454">
-            <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hicx/test/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -253,3 +253,57 @@
 2020-08-16 19:05:42 INFO  FileUtils:37 - files moved :[]
 2020-08-16 19:05:46 INFO  FileUtils:24 - files to process :[]
 2020-08-16 19:05:46 INFO  FileUtils:37 - files moved :[]
+2020-08-16 19:12:19 INFO  Controler:47 - Directory to scan:./src/test/resources
+2020-08-16 19:12:19 INFO  Controler:48 - Directory after proceesed:./src/test/resources/processed
+2020-08-16 19:12:19 INFO  Controler:49 - Supported files ext:[txt]
+2020-08-16 19:12:19 INFO  Controler:50 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@13653bed, com.hicx.test.statistics.DotCountProcessor@12e5f803, com.hicx.test.statistics.MostCommonWordProcessor@d7501b6]
+2020-08-16 19:12:19 INFO  FileUtils:24 - files to process :[./src/test/resources/data_dots.txt, ./src/test/resources/data.txt]
+2020-08-16 19:12:19 INFO  FileUtils:37 - files moved :[./src/test/resources/data_dots.txt, ./src/test/resources/data.txt]
+2020-08-16 19:12:19 INFO  Processor:39 - Stat Tittle:Word Count
+2020-08-16 19:12:19 INFO  Processor:43 - ========End==========
+2020-08-16 19:12:19 INFO  Processor:39 - Stat Tittle:Dot Count
+2020-08-16 19:12:19 INFO  Processor:43 - ========End==========
+2020-08-16 19:12:19 INFO  Processor:39 - Stat Tittle:Most Used Word: 
+2020-08-16 19:12:19 INFO  Processor:43 - ========End==========
+2020-08-16 19:12:19 INFO  Processor:39 - Stat Tittle:Word Count
+2020-08-16 19:12:19 INFO  Processor:43 - ========End==========
+2020-08-16 19:12:19 INFO  Processor:39 - Stat Tittle:Dot Count
+2020-08-16 19:12:19 INFO  Processor:43 - ========End==========
+2020-08-16 19:12:19 INFO  Processor:39 - Stat Tittle:Most Used Word: 
+2020-08-16 19:12:19 INFO  Processor:43 - ========End==========
+2020-08-16 19:12:23 INFO  FileUtils:24 - files to process :[]
+2020-08-16 19:12:23 INFO  FileUtils:37 - files moved :[]
+2020-08-16 19:29:16 INFO  Controler:47 - Directory to scan:
+2020-08-16 19:29:17 INFO  Controler:48 - Directory after proceesed:/processed
+2020-08-16 19:29:17 INFO  Controler:49 - Supported files ext:[txt]
+2020-08-16 19:29:17 INFO  Controler:50 - Supported Stats:[]
+2020-08-16 19:29:28 INFO  Controler:47 - Directory to scan:
+2020-08-16 19:29:28 INFO  Controler:48 - Directory after proceesed:/processed
+2020-08-16 19:29:28 INFO  Controler:49 - Supported files ext:[txt]
+2020-08-16 19:29:28 INFO  Controler:50 - Supported Stats:[]
+2020-08-16 19:31:41 INFO  Controler:47 - Directory to scan:
+2020-08-16 19:31:41 INFO  Controler:48 - Directory after proceesed:/processed
+2020-08-16 19:31:41 INFO  Controler:49 - Supported files ext:[txt]
+2020-08-16 19:31:41 INFO  Controler:50 - Supported Stats:[]
+2020-08-16 19:32:06 INFO  Controler:47 - Directory to scan:./src/test/resources
+2020-08-16 19:32:06 INFO  Controler:48 - Directory after proceesed:./src/test/resources/processed
+2020-08-16 19:32:06 INFO  Controler:49 - Supported files ext:[txt]
+2020-08-16 19:32:06 INFO  Controler:50 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@198203a0, com.hicx.test.statistics.DotCountProcessor@15780f07, com.hicx.test.statistics.MostCommonWordProcessor@7b128518]
+2020-08-16 19:32:06 INFO  FileUtils:24 - files to process :[./src/test/resources/data_dots.txt, ./src/test/resources/data.txt]
+2020-08-16 19:32:06 INFO  FileUtils:37 - files moved :[./src/test/resources/data_dots.txt, ./src/test/resources/data.txt]
+2020-08-16 19:32:06 INFO  Processor:39 - Stat Tittle:Word Count
+2020-08-16 19:32:06 INFO  Processor:43 - ========End==========
+2020-08-16 19:32:06 INFO  Processor:39 - Stat Tittle:Dot Count
+2020-08-16 19:32:06 INFO  Processor:43 - ========End==========
+2020-08-16 19:32:06 INFO  Processor:39 - Stat Tittle:Most Used Word: 
+2020-08-16 19:32:06 INFO  Processor:43 - ========End==========
+2020-08-16 19:32:06 INFO  Processor:39 - Stat Tittle:Word Count
+2020-08-16 19:32:06 INFO  Processor:43 - ========End==========
+2020-08-16 19:32:06 INFO  Processor:39 - Stat Tittle:Dot Count
+2020-08-16 19:32:06 INFO  Processor:43 - ========End==========
+2020-08-16 19:32:06 INFO  Processor:39 - Stat Tittle:Most Used Word: 
+2020-08-16 19:32:06 INFO  Processor:43 - ========End==========
+2020-08-16 19:32:10 INFO  FileUtils:24 - files to process :[]
+2020-08-16 19:32:10 INFO  FileUtils:37 - files moved :[]
+2020-08-16 19:32:14 INFO  FileUtils:24 - files to process :[]
+2020-08-16 19:32:14 INFO  FileUtils:37 - files moved :[]

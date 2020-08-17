@@ -25,3 +25,13 @@ w
 Gsrc/test/java/com/hicx/test/statistics/MostCommonWordProcessorTest.java,7/b/7b548c4ebb0f9258937e404f4f56dd8158efb551
 s
 Csrc/main/java/com/hicx/test/statistics/StatsProcesorController.java,2/0/2079272775fe32ac6cd4a3dbfc394b89651e4900
+g
+7src/main/java/com/hicx/test/file_parser/FileParser.java,c/f/cfa712b4b49b0ad659163fba18f41ad3afe1092d
+p
+@src/main/java/com/hicx/test/file_parser/FileParserControler.java,4/d/4de6cd01a0b61ec3f2f0d28679a0697df340abb3
+9
+	Readme.md,0/c/0c1945d7443c2e154bd3e421c0d438bd4086d8c3
+^
+.src/test/java/com/hicx/test/ControlerTest.java,0/9/09bb159a9e853261d431b1bdc938dcc8ee41cd50
+Z
+*src/main/java/com/hicx/test/FileUtils.java,d/2/d25023b2e0fd56ff9f4b006cbea21bfd8db3f10b

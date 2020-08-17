@@ -1,0 +1,7 @@
+
+jsquid:S00112*"FDefine and throw a dedicated exception instead of using a generic one.(şõÏæúÿÿÿÿ8õØ°Î¿.
+Vsquid:S1854;"8Remove this useless assignment to local variable "data".(Úï¦ã8İëšÎ¿.
+lsquid:S001008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¥\8İëšÎ¿.
+gsquid:UselessImportCheck"<Remove this unused import 'org.junit.jupiter.api.BeforeAll'.(—¦¹î8¨–ÆÎ¿.
+Gsquid:S1481;")Remove this unused "data" local variable.(Úï¦ã8İëšÎ¿.
+wsquid:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(Úï¦ã8İëšÎ¿.
