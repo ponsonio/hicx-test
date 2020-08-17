@@ -4,8 +4,9 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.List;
 
-public abstract interface FileParser {
+public interface FileParser {
 
+    //to add a new parse, we implement this interface
     List<String> processFile(File file) throws FileNotFoundException;
 
 }

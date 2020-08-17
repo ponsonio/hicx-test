@@ -24,7 +24,13 @@ been neglected, however it's worth mention them:
  
 
 ##How to run 
-Just build the project and execute _Processor.java_ with the directory to be process, 
-test files are provided as resources on _/test/resources/_
+Just build the project and execute _com.hicx.test.Processor.java_ with the directory with the 
+files to be process, 
+test files are provided as resources on _/test/resources/_, you can also use mvn to execute the 
+procesor, but first adjust the parameters on the _pom.xml_ to you local env
 
-* we asume a _processed_ dir it's already there.
+´´´
+ 
+´´´
+
+* we asume a _processed_ dir it's already there, this has only be tested on Mac OS X.

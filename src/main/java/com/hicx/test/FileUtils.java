@@ -17,6 +17,7 @@ public class FileUtils {
 
         File[] files = processDir.listFiles(new FilenameFilter() {
             public boolean accept(File dir, String name) {
+                //we need to change this when support more files
                 return name.toLowerCase().endsWith(availableExtensions[0]);
             }
         });

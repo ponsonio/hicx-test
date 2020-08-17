@@ -20,6 +20,18 @@
         <artifactId>maven-surefire-plugin</artifactId>
         <version>2.22.1</version>
       </plugin>
+
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>exec-maven-plugin</artifactId>
+        <version>3.0.0</version>
+        <configuration>
+          <mainClass>com.hicx.test.Processor</mainClass>
+          <arguments>
+            <argument>/Users/jcabrera/Desktop/hicx-test/src/test/resources/</argument>
+          </arguments>
+        </configuration>
+      </plugin>
     </plugins>
   </build>
 

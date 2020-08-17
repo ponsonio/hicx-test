@@ -5,6 +5,7 @@ import java.util.StringTokenizer;
 
 public interface IStatsGather {
 
-    public Stat getStat(final List<String> lines);
+    //to add a new procesor, we implement this interface
+    Stat getStat(final List<String> lines);
 
 }

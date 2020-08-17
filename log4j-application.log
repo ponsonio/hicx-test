@@ -191,3 +191,65 @@
 2020-08-16 18:45:59 INFO  FileUtils:36 - files moved :[]
 2020-08-16 18:46:03 INFO  FileUtils:23 - files to process :[]
 2020-08-16 18:46:03 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:59:35 INFO  Controler:47 - Directory to scan:/Users/jcabrera/Desktop/hicx-test/src/test/resources
+2020-08-16 18:59:35 INFO  Controler:48 - Directory after proceesed:/Users/jcabrera/Desktop/hicx-test/src/test/resources/processed
+2020-08-16 18:59:35 INFO  Controler:49 - Supported files ext:[txt]
+2020-08-16 18:59:35 INFO  Controler:50 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@38ae33e3, com.hicx.test.statistics.DotCountProcessor@6a65b3be, com.hicx.test.statistics.MostCommonWordProcessor@7508158b]
+2020-08-16 18:59:35 INFO  FileUtils:23 - files to process :[/Users/jcabrera/Desktop/hicx-test/src/test/resources/data_dots.txt, /Users/jcabrera/Desktop/hicx-test/src/test/resources/data.txt]
+2020-08-16 18:59:35 INFO  FileUtils:36 - files moved :[/Users/jcabrera/Desktop/hicx-test/src/test/resources/data_dots.txt, /Users/jcabrera/Desktop/hicx-test/src/test/resources/data.txt]
+2020-08-16 18:59:35 INFO  Processor:39 - Stat Tittle:Word Count
+2020-08-16 18:59:35 INFO  Processor:43 - ========End==========
+2020-08-16 18:59:35 INFO  Processor:39 - Stat Tittle:Dot Count
+2020-08-16 18:59:35 INFO  Processor:43 - ========End==========
+2020-08-16 18:59:35 INFO  Processor:39 - Stat Tittle:Most Used Word: 
+2020-08-16 18:59:35 INFO  Processor:43 - ========End==========
+2020-08-16 18:59:35 INFO  Processor:39 - Stat Tittle:Word Count
+2020-08-16 18:59:35 INFO  Processor:43 - ========End==========
+2020-08-16 18:59:35 INFO  Processor:39 - Stat Tittle:Dot Count
+2020-08-16 18:59:35 INFO  Processor:43 - ========End==========
+2020-08-16 18:59:35 INFO  Processor:39 - Stat Tittle:Most Used Word: 
+2020-08-16 18:59:35 INFO  Processor:43 - ========End==========
+2020-08-16 18:59:39 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:59:39 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:59:43 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:59:43 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:59:47 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:59:47 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:59:51 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:59:51 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:59:55 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:59:55 INFO  FileUtils:36 - files moved :[]
+2020-08-16 18:59:59 INFO  FileUtils:23 - files to process :[]
+2020-08-16 18:59:59 INFO  FileUtils:36 - files moved :[]
+2020-08-16 19:00:03 INFO  FileUtils:23 - files to process :[]
+2020-08-16 19:00:03 INFO  FileUtils:36 - files moved :[]
+2020-08-16 19:00:07 INFO  FileUtils:23 - files to process :[]
+2020-08-16 19:00:07 INFO  FileUtils:36 - files moved :[]
+2020-08-16 19:00:11 INFO  FileUtils:23 - files to process :[]
+2020-08-16 19:00:11 INFO  FileUtils:36 - files moved :[]
+2020-08-16 19:00:15 INFO  FileUtils:23 - files to process :[]
+2020-08-16 19:00:15 INFO  FileUtils:36 - files moved :[]
+2020-08-16 19:00:19 INFO  FileUtils:23 - files to process :[]
+2020-08-16 19:00:19 INFO  FileUtils:36 - files moved :[]
+2020-08-16 19:05:38 INFO  Controler:47 - Directory to scan:/Users/jcabrera/Desktop/hicx-test/src/test/resources
+2020-08-16 19:05:38 INFO  Controler:48 - Directory after proceesed:/Users/jcabrera/Desktop/hicx-test/src/test/resources/processed
+2020-08-16 19:05:38 INFO  Controler:49 - Supported files ext:[txt]
+2020-08-16 19:05:38 INFO  Controler:50 - Supported Stats:[com.hicx.test.statistics.WordCountProcessor@29aef92e, com.hicx.test.statistics.DotCountProcessor@a16105c, com.hicx.test.statistics.MostCommonWordProcessor@873b365]
+2020-08-16 19:05:38 INFO  FileUtils:24 - files to process :[/Users/jcabrera/Desktop/hicx-test/src/test/resources/data_dots.txt, /Users/jcabrera/Desktop/hicx-test/src/test/resources/data.txt]
+2020-08-16 19:05:38 INFO  FileUtils:37 - files moved :[/Users/jcabrera/Desktop/hicx-test/src/test/resources/data_dots.txt, /Users/jcabrera/Desktop/hicx-test/src/test/resources/data.txt]
+2020-08-16 19:05:38 INFO  Processor:39 - Stat Tittle:Word Count
+2020-08-16 19:05:38 INFO  Processor:43 - ========End==========
+2020-08-16 19:05:38 INFO  Processor:39 - Stat Tittle:Dot Count
+2020-08-16 19:05:38 INFO  Processor:43 - ========End==========
+2020-08-16 19:05:38 INFO  Processor:39 - Stat Tittle:Most Used Word: 
+2020-08-16 19:05:38 INFO  Processor:43 - ========End==========
+2020-08-16 19:05:38 INFO  Processor:39 - Stat Tittle:Word Count
+2020-08-16 19:05:38 INFO  Processor:43 - ========End==========
+2020-08-16 19:05:38 INFO  Processor:39 - Stat Tittle:Dot Count
+2020-08-16 19:05:38 INFO  Processor:43 - ========End==========
+2020-08-16 19:05:38 INFO  Processor:39 - Stat Tittle:Most Used Word: 
+2020-08-16 19:05:38 INFO  Processor:43 - ========End==========
+2020-08-16 19:05:42 INFO  FileUtils:24 - files to process :[]
+2020-08-16 19:05:42 INFO  FileUtils:37 - files moved :[]
+2020-08-16 19:05:46 INFO  FileUtils:24 - files to process :[]
+2020-08-16 19:05:46 INFO  FileUtils:37 - files moved :[]
