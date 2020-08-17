@@ -5,6 +5,7 @@ import java.util.List;
 
 public class StatsProcesorController {
 
+    //Retuns a list of all the stats processors we have
     //we add new stast processors here
     public List<IStatsGather> getAvailableStats() {
         List<IStatsGather> availableStats = new ArrayList<IStatsGather>();

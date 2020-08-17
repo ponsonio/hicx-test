@@ -4,7 +4,7 @@ package com.hicx.test.statistics;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;
 
-
+//Stats for number of dots
 public class DotCountProcessor implements IStatsGather{
 
 

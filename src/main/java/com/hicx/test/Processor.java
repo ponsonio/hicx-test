@@ -12,6 +12,7 @@ public class Processor {
 
     final static Logger logger = Logger.getLogger(Processor.class);
 
+    //Entry point, we instantiate and call the process on a loop with a pause
     public static void main(String[] args) {
 
       try{
@@ -33,6 +34,7 @@ public class Processor {
        }
     }
 
+    //print the results
     private static void printStats(List<Stat> data) {
 
         for (Stat s: data ) {

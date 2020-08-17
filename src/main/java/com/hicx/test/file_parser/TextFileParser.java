@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner; // Import the Scanner class to read text files
 
-
+//Parser for txt
 public class TextFileParser implements FileParser {
 
     public List<String>  processFile(File file) throws FileNotFoundException {

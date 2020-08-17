@@ -5,7 +5,8 @@ import java.io.File;
 
 public class FileParserControler {
 
-    //we add new processors here
+    //this shoudl return a parser accordingly
+    //we add new file parsers here when we support more
     public FileParser getFileProcessor(File f) throws IllegalStateException{
         //improve this!!!!!!
         if (FileUtils.getFileExt(f).equalsIgnoreCase(

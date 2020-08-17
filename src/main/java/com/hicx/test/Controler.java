@@ -17,6 +17,9 @@ import java.util.List;
 
 import org.apache.log4j.Logger;
 
+/**
+ * This is the main controller of the app
+ */
 public class Controler {
 
     final static Logger logger = Logger.getLogger(Controler.class);
@@ -30,7 +33,7 @@ public class Controler {
     FileUtils fileUtils;
     FileParserControler fileParserControler;
 
-    //Injecting dependencies to make easy to mock later
+    //Injecting dependencies to make easy to mock later,we also initiate dirs
     public Controler(String dir, FileUtils fileUtils, FileParserControler fileParserControler
         , StatsProcesorController statsProcesorController) {
 
@@ -53,16 +56,18 @@ public class Controler {
     public List<Stat> process() throws FileNotFoundException, IOException {
 
         List<Stat> resp = new ArrayList<Stat>();
+
+        //we get the file to process, with the extentions we support
         File[] files = fileUtils.getFilesToProcess(processDir, availableExtensions);
 
         //for every file
         for (File f : files) {
-            //get the fp accordingly
+            //get the parser accordingly
             FileParser fp = fileParserControler.getFileProcessor(f);
 
             final List<String> lines =  fp.processFile(f);
 
-            //for every available statGather
+            //for we process the file for every available stat Gather
             for (IStatsGather s : availableStats){
                 resp.add(s.getStat(lines));
             }

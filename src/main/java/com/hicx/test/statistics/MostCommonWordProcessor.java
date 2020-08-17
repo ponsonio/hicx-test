@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.StringTokenizer;
 
+//Stats for most common word
 public class MostCommonWordProcessor implements IStatsGather{
 
     private HashMap<String, Integer> frecuency;

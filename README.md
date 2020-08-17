@@ -20,10 +20,13 @@ mvn test
 Per time constraint and considering this is not a _real_ project, some aspect have
 been neglected, however it's worth mention them:
 
-* UT aren't enought ( coverage should be ~100%), mockito was included
+* UT are not nearly enough ( coverage should be ~100%),  a test using mockito was included to show
+ how
+the design facilitate testing.
 * Integration test are also necessary
 * Static analysis tools should be included (ex: findbugs, checkstyle, etc)
 * Mutation Coverage should be included (ex: https://pitest.org/)
+* Error description should be better handled
  
 
 ## How to run 

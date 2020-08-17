@@ -8,6 +8,9 @@ import java.nio.file.StandardCopyOption;
 import java.util.Arrays;
 import org.apache.log4j.Logger;
 
+/**
+ * Utilities for file handle
+ */
 public class FileUtils {
 
     final static Logger logger = Logger.getLogger(FileUtils.class);
